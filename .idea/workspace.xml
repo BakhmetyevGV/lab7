@@ -5,6 +5,7 @@
   </component>
   <component name="ProjectId" id="1Y7OukXOjIkIjcqW6h5rnenLWAZ" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
